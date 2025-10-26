@@ -1,0 +1,11 @@
+Device: Xiaomi 13
+Device code name : fuxi
+Device maintainer: RaeBaeXXX
+
+Date - 26/10/2025
+===============
+- Added KSU-Next
+
+Date - 24/10/2025
+===============
+- Synced with latest source
