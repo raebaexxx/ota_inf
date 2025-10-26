@@ -1,12 +1,12 @@
 {
-        "response": [
-                {
-                        "filename": "Project_Infinity-X-3.3-oscaro-26.10.2025-GAPPS-UNOFFICIAL.zip",
-                        "download": "https://elixir-mirrors.chethangowdasj1.workers.dev/0:/Project_Infinity-X-3.3-oscaro-26.10.2025-GAPPS-UNOFFICIAL.zip",
-                        "timestamp": 1761474037,
-                        "md5": "193450a137ed1220d6aca89c474e7776",
-                        "size": 2270889662,
-                        "version": "3.3"
-                }
-        ]
+	"response": [
+		{
+			"filename": "Project_Infinity-X-3.3-fuxi-26.10.2025-GAPPS-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/infinity-x/files/fuxi/16/gapps/Project_Infinity-X-3.3-fuxi-26.10.2025-GAPPS-UNOFFICIAL.zip",
+			"timestamp": 1761486150,
+			"md5": "28f05517e532a4a85cd65ccf11f4c588",
+			"size": 2993199236,
+			"version": "3.3"
+		}
+	]
 }
